@@ -1,6 +1,15 @@
 # practice1
 
 
+```js
+
+console.log("test")
+
+
+```
+
+
+
 Syrym Zhakypbekov is inviting you to a meeting.
 
 Join the meeting:
