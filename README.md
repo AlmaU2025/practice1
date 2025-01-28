@@ -1,6 +1,6 @@
 # practice1
 BRAND NEW README BY TAIR
-
+тут был вагет
 ```js
 
 console.log("test")
