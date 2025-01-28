@@ -1,3 +1,4 @@
+
 bucaDiBeppo 🍝
 welcome to bucaDiBeppo — the branch that smells like marinara, wraps itself in dough, and whispers in your ear: "everything’s fine, just vibe." this is where we handle things with flair, sprinkle creativity on every commit, and keep it all in line with the bebra-mini artillery spirit.
 
@@ -14,3 +15,30 @@ why not, captain Jangir bebra-mini artilleryman? it’s just another step toward
 
 fork it, pull it, or just peek and enjoy. viva bucaDiBeppo! 🍷
 ![image](https://github.com/user-attachments/assets/5a675153-059c-49f0-bcef-abb8a188d77b)
+
+# practice1
+
+BRAND NEW README BY TAIR
+тут был вагет
+Gulnur is here
+
+Shakhrezat Akhmetova is here
+
+```js
+
+console.log("test")
+
+
+```
+
+
+
+
+Syrym Zhakypbekov is inviting you to a meeting.
+
+Join the meeting:
+https://meet.jit.si/IntegratedNorthsShockRemorsefully
+
+
+Fedyukova Karina
+
