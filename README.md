@@ -20,7 +20,8 @@ fork it, pull it, or just peek and enjoy. viva bucaDiBeppo! 🍷
 
 BRAND NEW README BY TAIR
 тут был вагет
-Gulnur is here
+
+Birles Gulnur is here
 
 Shakhrezat Akhmetova is here
 
